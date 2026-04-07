@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML my table</title></head>
+<link rel="stylesheet" href="style.css">
+
+<body>
+<table border="4">
+    <thead>
+        <tr>
+            <th>serial</th><th>Subject</th><th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>01</td><td>Science</td> <td>4</td></tr>
+        <tr><td>02</td><td>BGS</td><td>5</td></tr>
+    </tbody>
+    <tfoot><tr><td></td><td>CGPA</td><td>4.5</td></tr></tfoot>
+</table>
+<a href="https://www.google.com" target="_blank">click</a>
+
+</body>
+
+</html>
